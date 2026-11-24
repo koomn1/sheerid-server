@@ -1,4 +1,5 @@
+Flask
+flask-cors
 httpx
 Pillow
-requests
-cloudscraper
+curl_cffi
